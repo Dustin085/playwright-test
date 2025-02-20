@@ -3,3 +3,5 @@
 ```bash
 npx playwright test google-test.spec.js
 ```
+
+<!-- test remote -->
