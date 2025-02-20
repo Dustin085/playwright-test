@@ -1,5 +1,4 @@
-// google-test.spec.js
-import { test, expect } from '@playwright/test';
+import { test } from '@playwright/test';
 
 test('react-weather-app測試', async ({ page }) => {
     await page.goto('https://react-weather-app-two-psi.vercel.app/');
