@@ -5,3 +5,5 @@ npx playwright test google-test.spec.js
 ```
 
 <!-- test local -->
+
+<!-- test remote -->
